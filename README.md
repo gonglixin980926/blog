@@ -3,10 +3,7 @@
 ### netlify 集成自动化
 
 
-自动同步语雀并构建
-
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cyberhan123/blog"><img src="https://www.netlify.com/img/deploy/button.svg" alt="部署到Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cyberhan123/blog"><img src="https://www.netlify.com/img/deploy/button.svg" alt="克隆本项目并部署到Netlify"></a>
 
 
 

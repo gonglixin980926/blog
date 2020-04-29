@@ -9,6 +9,6 @@
   publish = "publish/"
 
   # Default build command.
-  command = "npm run sync &&npm run build"
+  command = "npm run build"
 
 
