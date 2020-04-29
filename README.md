@@ -2,6 +2,8 @@
 
 ### netlify 集成自动化
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0cb187d0-646f-455d-9102-314e25512cd3/deploy-status)](https://app.netlify.com/sites/cyberhan123/deploys)
+
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cyberhan123/blog"><img src="https://www.netlify.com/img/deploy/button.svg" alt="克隆本项目并部署到Netlify"></a>
 
